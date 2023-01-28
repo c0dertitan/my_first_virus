@@ -14,4 +14,6 @@ git remote add origin https://github.com/YOUR_VICTIM'S_USERNAME/YOUR_VICTIM'S_DI
 
 git push -u origin main
 
-echo "Hacked by YOUR_NAME :)"vir
+echo "Hacked by YOUR_NAME :)"
+
+# Replace YOUR_VICTIM'S_DIRECTORY with their directory YOUR_VICTIM'S_USERNAME with your victim's username.
